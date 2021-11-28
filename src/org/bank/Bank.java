@@ -9,5 +9,6 @@ public class Bank {
 	}
 	public void deposit() {
 System.out.println("Deposit 9%");
+System.out.println("Ahmed");
 	}
 	}
